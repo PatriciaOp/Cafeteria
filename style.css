@@ -275,7 +275,7 @@ header{
     margin: 1rem;
  }
  
- 
+ /* Estilo para tablet e telefone*/
  @media screen and (max-width: 871px) {
     .div-logo a {
        font-size: 1.4rem;
